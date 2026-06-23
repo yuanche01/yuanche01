@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 
 ## 🏢 Work Experience
 
-待补充
+maybe LLMs or Security
 
 <!-- <img align="right" width="200" src="https://cdn.jsdelivr.net/gh/yuanche01/yuanche01@main/assets/images/GRCBank.png" />
 
