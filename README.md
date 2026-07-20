@@ -50,6 +50,7 @@ Here are some ideas to get you started:
 <p>&emsp;&emsp;<strong>The past is beyond recall; the future is still mine to shape.</strong></p>
 
 
+My profile picture is my dream partner. If you know them, hook me up! 😄
 
   <div>&nbsp;</div>
 
@@ -59,26 +60,9 @@ Here are some ideas to get you started:
 
 ## 🏢 Work Experience
 
-2026-7 绿盟科技
 
 maybe LLMs or Security
 
-<!-- <img align="right" width="200" src="https://cdn.jsdelivr.net/gh/yuanche01/yuanche01@main/assets/images/GRCBank.png" />
-
-- [广州农商银行](https://www.grcbank.com/) &emsp; 📌 2020-07 —— 2023-07
-
-  - 工作岗位：系统开发岗
-  - 工作内容：参与网银开发与维护工作
-
-<img align="right" width="200" src="https://cdn.jsdelivr.net/gh/yuanche01/yuanche01@main/assets/images/Inspur.PNG" />
-
-- [浪潮](https://www.inspur.com/)   📌 2019-07 —— 2020-02
-
-  - 工作岗位：实习生
-  - 工作内容：参与软件开发
-
-
-  <div>&nbsp;</div> -->
   
 </td></tr>
 
