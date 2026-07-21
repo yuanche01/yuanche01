@@ -1,7 +1,6 @@
 <div align="center">
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:06B6D4&height=160&section=header&text=🙋 Hi, I'm yuanche&fontSize=52&fontAlignY=40&animation=fadeIn&fontColor=white&desc=AI%20Agents%20%C2%B7%20LLMs%20%C2%B7%20Security&descAlignY=62&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:06B6D4&height=160&section=header&text=%F0%9F%99%8B%20Hi%2C%20I%27m%20yuanche&fontSize=52&fontAlignY=40&animation=fadeIn&fontColor=white&desc=AI%20Agents%20%C2%B7%20LLMs%20%C2%B7%20Security&descAlignY=62&descSize=16" width="100%" />
 
 
 <picture>
