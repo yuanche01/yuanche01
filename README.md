@@ -1,20 +1,20 @@
-
-<!--
-**yuanche01/yuanche01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <div align="center">
+
+<img src="
+https://capsule-render.vercel.app/api
+?type=waving
+&color=0:7C3AED,100:06B6D4
+&height=160
+&section=header
+&text=🙋 Hi, I'm yuanche
+&fontSize=52
+&fontAlignY=40
+&animation=fadeIn
+&fontColor=white
+&desc=AI%20Agents%20%C2%B7%20LLMs%20%C2%B7%20Security
+&descAlignY=62
+&descSize=16
+" width="100%" />
 
 
 <picture>
@@ -34,40 +34,22 @@ Here are some ideas to get you started:
 
 </div>
 
-
-
-#  🙋 Hi, I'm yuanche
-<table>
-  
-<tr><td>
-
 ## 🤺 About Me
+<!-- <p>&emsp;&emsp;Hi, I am yuanche</p> -->
 
-<p>&emsp;&emsp;Hi, I am yuanche</p>
-<p>&emsp;&emsp;🎓 Senior Cybersecurity Student @ Xi'an Jiaotong University (XJTU) | Interested in LLMs and Security</p>
-<!-- <p>&emsp;&emsp; 个人公众号：<a href="https://github.com/yuanche01/vuepressblog/blob/master/images/QR-Code.png" target="_blank"> PeterJXL </a></p> -->
-<p>&emsp;&emsp;悟已往之不谏，知来者之可追</p>
-<p>&emsp;&emsp;<strong>The past is beyond recall; the future is still mine to shape.</strong></p>
+🎓 Senior Cybersecurity Student @ Xi'an Jiaotong University (XJTU) | Interested in LLMs and Security
 
+The past is beyond recall; the future is still mine to shape.
 
 My profile picture is my dream partner. If you know them, hook me up! 😄
 
-  <div>&nbsp;</div>
-
-</td></tr>
-
-<tr><td>
 
 ## 🏢 Work Experience
 
-
 maybe LLMs or Security
 
-  
-</td></tr>
 
 
-</table>
 
 
 
